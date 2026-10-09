@@ -1,5 +1,16 @@
 # Verification — 9 October 2026
 
+## Update: on-demand full-year collection
+
+- The daily scheduled collector was replaced by **Collect a YC year**, with one required year input and no company-count cap.
+- Eight parallel workers share host-wide pacing. A barrier-based test verifies that company work actually overlaps. JSON checkpoints use a consistent SQLite read transaction.
+- All 20 tests pass locally and the initial GitHub Actions test run passed: https://github.com/mallikaakash/yc-people/actions/runs/37968557093.
+- Runtime safeguards now mark unprocessed work **incomplete**; valid partial data remains saved and publishable.
+- Repository created and pushed: https://github.com/mallikaakash/yc-people. GitHub Pages is configured with workflow-based publishing.
+- A full-year remote collection has not yet been run. The dataset remains the earlier three-company profile sample; the company metadata covers the full 2024 directory.
+
+## Earlier local verification
+
 - 18 offline regression tests passed (`python3 -m unittest discover -s tests -v`).
 - JavaScript syntax checked with `node --check yc_people/static/app.js`.
 - Both GitHub workflow files parsed as valid YAML. They have not been executed on GitHub.

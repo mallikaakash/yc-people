@@ -15,6 +15,8 @@ There is **no daily schedule and no 25-company cap**. A single invocation attemp
 
 The **Run a year** button on the generated page opens GitHub's workflow form. Starting a collection requires repository write access; the public static page itself does not receive a GitHub token. GitHub's [manual workflow documentation](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/manually-run-a-workflow) covers this trigger.
 
+**Publish saved directory** is a separate manual workflow for republishing the existing HTML without collecting any new data.
+
 You can also trigger it from an authenticated terminal:
 
 ```bash
