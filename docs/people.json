@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "company_slug": "abundant",
+    "source_key": "yc:7473",
+    "name": "Jesse Hu",
+    "role": "Founder",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:04+00:00",
+    "last_seen": "2026-10-09T16:52:04+00:00",
+    "company": "Abundant",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/abundant",
+    "profiles": [
+      {
+        "person_id": 1,
+        "url": "https://linkedin.com/in/jessehu",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 1,
+        "source_url": "https://www.ycombinator.com/companies/abundant",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "company_slug": "abundant",
+    "source_key": "yc:1694208",
+    "name": "Ke Huang",
+    "role": "Founder",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:04+00:00",
+    "last_seen": "2026-10-09T16:52:04+00:00",
+    "company": "Abundant",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/abundant",
+    "profiles": [
+      {
+        "person_id": 3,
+        "url": "https://linkedin.com/in/ke-huang-07611058",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 3,
+        "source_url": "https://www.ycombinator.com/companies/abundant",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "company_slug": "abundant",
+    "source_key": "yc:1890020",
+    "name": "Meji Abidoye",
+    "role": "Founder",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:04+00:00",
+    "last_seen": "2026-10-09T16:52:04+00:00",
+    "company": "Abundant",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/abundant",
+    "profiles": [
+      {
+        "person_id": 2,
+        "url": "https://linkedin.com/in/meji-abidoye",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 2,
+        "source_url": "https://www.ycombinator.com/companies/abundant",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:04+00:00",
+        "last_seen": "2026-10-09T16:52:04+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "company_slug": "abundant",
+    "source_key": "github:kyle-compute",
+    "name": "kyle-compute",
+    "role": "Public GitHub organization member",
+    "relation": "github_member",
+    "first_seen": "2026-10-09T16:52:06+00:00",
+    "last_seen": "2026-10-09T16:52:06+00:00",
+    "company": "Abundant",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/abundant",
+    "profiles": [
+      {
+        "person_id": 4,
+        "url": "https://github.com/kyle-compute",
+        "platform": "github",
+        "first_seen": "2026-10-09T16:52:06+00:00",
+        "last_seen": "2026-10-09T16:52:06+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 4,
+        "source_url": "https://github.com/orgs/abundant-ai/people",
+        "relation": "github_member",
+        "note": "Public organization membership; employment and real name unverified",
+        "first_seen": "2026-10-09T16:52:06+00:00",
+        "last_seen": "2026-10-09T16:52:06+00:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "company_slug": "abundant",
+    "source_key": "github:werdnabae",
+    "name": "werdnabae",
+    "role": "Public GitHub organization member",
+    "relation": "github_member",
+    "first_seen": "2026-10-09T16:52:06+00:00",
+    "last_seen": "2026-10-09T16:52:06+00:00",
+    "company": "Abundant",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/abundant",
+    "profiles": [
+      {
+        "person_id": 5,
+        "url": "https://github.com/werdnabae",
+        "platform": "github",
+        "first_seen": "2026-10-09T16:52:06+00:00",
+        "last_seen": "2026-10-09T16:52:06+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 5,
+        "source_url": "https://github.com/orgs/abundant-ai/people",
+        "relation": "github_member",
+        "note": "Public organization membership; employment and real name unverified",
+        "first_seen": "2026-10-09T16:52:06+00:00",
+        "last_seen": "2026-10-09T16:52:06+00:00"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "company_slug": "afternoon-co",
+    "source_key": "yc:2027776",
+    "name": "Benjamin Paik",
+    "role": "Founder/CPO",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:07+00:00",
+    "last_seen": "2026-10-09T16:52:08+00:00",
+    "company": "Afternoon.co",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/afternoon-co",
+    "profiles": [
+      {
+        "person_id": 7,
+        "url": "https://linkedin.com/in/benjaminpaik",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:07+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 7,
+        "source_url": "https://www.ycombinator.com/companies/afternoon-co",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:07+00:00",
+        "last_seen": "2026-10-09T16:52:07+00:00"
+      },
+      {
+        "person_id": 7,
+        "source_url": "https://afternoon.co/about-us",
+        "relation": "company_listed",
+        "note": "Named personal-profile link on a company team/about page; review affiliation",
+        "first_seen": "2026-10-09T16:52:08+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "company_slug": "afternoon-co",
+    "source_key": "yc:10264",
+    "name": "Roman Zubenko",
+    "role": "Founder/CEO",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:07+00:00",
+    "last_seen": "2026-10-09T16:52:08+00:00",
+    "company": "Afternoon.co",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/afternoon-co",
+    "profiles": [
+      {
+        "person_id": 6,
+        "url": "https://linkedin.com/in/romanzubenko",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:07+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      },
+      {
+        "person_id": 6,
+        "url": "https://x.com/romanzubenko",
+        "platform": "x",
+        "first_seen": "2026-10-09T16:52:07+00:00",
+        "last_seen": "2026-10-09T16:52:07+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 6,
+        "source_url": "https://www.ycombinator.com/companies/afternoon-co",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:07+00:00",
+        "last_seen": "2026-10-09T16:52:07+00:00"
+      },
+      {
+        "person_id": 6,
+        "source_url": "https://afternoon.co/about-us",
+        "relation": "company_listed",
+        "note": "Named personal-profile link on a company team/about page; review affiliation",
+        "first_seen": "2026-10-09T16:52:08+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "company_slug": "alex",
+    "source_key": "yc:559658",
+    "name": "Daniel Edrisian",
+    "role": "Founder/CEO",
+    "relation": "yc_founder",
+    "first_seen": "2026-10-09T16:52:08+00:00",
+    "last_seen": "2026-10-09T16:52:08+00:00",
+    "company": "Alex",
+    "batch": "Fall 2024",
+    "year": 2024,
+    "yc_url": "https://www.ycombinator.com/companies/alex",
+    "profiles": [
+      {
+        "person_id": 8,
+        "url": "https://linkedin.com/in/daniel-edrisian",
+        "platform": "linkedin",
+        "first_seen": "2026-10-09T16:52:08+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      },
+      {
+        "person_id": 8,
+        "url": "https://x.com/danieledrisian",
+        "platform": "x",
+        "first_seen": "2026-10-09T16:52:08+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "person_id": 8,
+        "source_url": "https://www.ycombinator.com/companies/alex",
+        "relation": "yc_founder",
+        "note": "Listed in YC's founders section; not a current-employment verification",
+        "first_seen": "2026-10-09T16:52:08+00:00",
+        "last_seen": "2026-10-09T16:52:08+00:00"
+      }
+    ]
+  }
+]
